@@ -30,5 +30,3 @@ classDiagram
     Animal <|-- Dog
     Animal <|-- Cat
     Animal <|-- Bird
-
-    class Animal abstract
